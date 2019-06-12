@@ -1,4 +1,4 @@
-OpenFisca-France >= 42.0.0, <= 43.0.0
+OpenFisca-France >= 42.0.0, < 44.0.0
 flask ==1.0.3
 flask-cors ==3.0.8
 gunicorn >= 19.7.1
